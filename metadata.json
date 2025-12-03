@@ -1,0 +1,5 @@
+{
+  "name": "Pick Song - Smart Karaoke Assistant",
+  "description": "An AI-powered web application that recommends karaoke songs based on mood, genre, artist, and daily picks using Google Gemini.",
+  "requestFramePermissions": []
+}
